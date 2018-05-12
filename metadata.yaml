@@ -1,5 +1,8 @@
 _repo: The-Adventures-of-a-Special-Correspondent-Among-the-Various-Races-and-Countries-of-Central-As__11263
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -28,6 +31,8 @@ description: "Claudius Bombarnac (French: Claudius Bombarnac, 1893) is an advent
   \ the train must travel through a large part of China that is controlled by unscrupulous\
   \ robber-chiefs. Before the journey is over, Claudius finds his hero.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11263#The-Adventures-of-a-Special-Correspondent-Among-the-Various-Races-and-Countries-of-Central-As_
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
